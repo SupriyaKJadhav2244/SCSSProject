@@ -1,0 +1,19 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "Learn Sass",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass ./style.scss ./style.css"
+  },
+  "keywords": [
+    "Sass",
+    "Learn",
+    "Sass"
+  ],
+  "author": "Supriya",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
